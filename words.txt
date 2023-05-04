@@ -1,0 +1,976 @@
+Китайский	Английский	Русский
+补充探测	Exploration 	Доразведка  
+踢板	Kick board 	Нижняя  часть  ограждения  (металлическая  обшивка)  
+注浆 	 cementation  	  Цементация  
+注浆/灌浆 	 Grouting  	  Цементация/тампонаж  压力小（区别于cementation）
+皮带轮	Sheave	Шкив,  Ролик  
+阀门站	Valve station 	Узел  переключения  
+不安全条件	Unsafe conditions	Небезопасные условия
+不安全行为/安全违规	Unsafe actions/safety violations	Небезопасные действия
+个人防护用品 	 PPE personal protective equipment 	  СИЗ/средства  индивидуальной  защиты  
+制动/安全绳 	 Safety ropes 	  Тормозной  канат  
+安全保险绳	Safety sling 	Предохранительный  трос  
+安全吊带 	 Safety sling 	  Подвеска  безопасности  
+安全工 	 Safety worker 	  Работник  по  Тб
+安全快报 	 Safety flash 	  Оперативка,  газета  (на  предприятии)  по  безопасности
+安全装置	Safety device 	Предохранительное  устройство  
+安全警示 	 Safety Alerts 	  Предупреждения  по  безопасности
+安全载荷 	 Safe working load 	  Рабочая  нагрузка  
+安全违规 	 Safety violation 	  Нарушение  безопасности  
+安全链	Safety chain 	Предохранительная  цепь  
+安全锁 	 Safety latch  	  Предохранительная  защёлка
+安全门	Bank door 	Откидные  ляды,  стволовые  ляды,  стволовая  дверь
+安全门 	 Emergency exit 	  Аварийный  выход  
+安全门 	 Safety door 	  Шахтная  дверь  предохранительная
+安全零事故目标 	 GOAL ZERO 	  Цель  Ноль  (Безопасность  и  нулевой  травматизм)
+急停 	 Emergency stop 	  Экстренная  остановка
+急救包	First-aid kit 	  Аптечка
+急救室 	 First aid room 	  Кабинет  первой  медицинской  помощи  
+急救爬梯	Rescue ladders 	  Аварийная/спасательная  лестница  
+急救箱 	 First aid kid 	  Аптечка  первой  помощи
+政府工业安全 	 Government regulation of industrial safety 	  Комитет  индустриальной  безопасности  
+消防干管 	 Fire main  	  Противопожарная  сеть  
+消防水池2X250立方米	Fire fighting pool 2X250 cubic meters	Пожарный резевуары емкостью 2х250м3
+消防水箱 	 Fire water tank  	  Пожарный  резервуар  
+消防泵 	 Fire pump 	  Противопожарный  насос  
+消防演练 	 Fire drill 	  Противопожарный  учения  
+消防队	Firefighting Team 	Пожарная  команда  
+火警 	 Fire alarm  	  Пожарная  сигнализация  
+灭火器 	 Fire extinguisher 	  Огнетушитель
+Pop计划	Pop schedule 	Pop график
+SLAM手册 	 SLAM 	  СЛАМ
+压实度测试仪 	 Compaction test 	  Испытание  плотности  грунта  
+压水测试 	 Water pump test 	  Испытание  с  водой  под  давлением  
+报告 	 Report 	  Отчет  
+无损探伤检测	Non-destructive testing (NDT) 	Неразрушающие  испытания  и  измерения/дефектоскопия  
+无损测试 	 ND test (Nondestructive) 	  Неразрушающий  контроль
+水样检测 	 Water sample testing 	  Анализ  проб  воды  
+测压 	 Pressure test 	  Испытания  под  давлением  
+测量孔	Survey report 	Измерительный отверстие
+测量报告	Survey report 	Доклад  об  исследовании
+混凝土强度试验	Concrete strength test	Испытание на прочность бетона
+电磁探伤测试	EMT electromagnetic test	Электромагнитное  тестирование  
+磁性粒子测试	Magnetic particle testing	Магнитопорошковая дефектоскопия
+第四方报告 	 Fourth party report 	  Отчёты  четвёртой  стороны
+结算	Act of completes works 	  Акт  выполненных  работ
+行星齿轮减速器 	Gear box 	Редуктор
+超声波探伤	Ultrasonic testing	 Ультразвуковое испытание
+人员计划 	 labor plan 	  План  рабочей  силы  
+任务书 	 Work order 	  Приказ  о  назначении  
+会议记录	Minutes of meeting 	Протокол  совещания  
+初步预算文件	Initial estimate documentation 	ИСД  (исходно-сметная  документация)  
+压缩文件 	 Compressed file 	  Архивированный  файл  
+图列	Symbols 	Условные обозначения 
+图纸 	 Drawing 	  Чертеж  
+基本说明 	General description	Общее описание
+方案/计划 	Action Plan 	  План  работ  
+施工过程文件 	 Legal document 	  Нормативные  документы  (施工日志等)
+行动计划	Action plan 	План действий 
+计划任务观察 	 PTOs 	  Плановое  наблюдение  за  выполнением  задания
+计划预算文件	Design estimate documentation 	ПСД  (проектно-сметная  документация)  
+许可 	 Permission 	  Разрешение  
+赶工计划/追赶计划 	 Catch up plan 	План  срочных  работ/План  наверстывания  
+边防证 	 Border permission/border card 	  Пограничный  пропуск  
+高空作业许可 	 Work at height permit 	  Разрешение  на  работу  на  высоте
+临时转水站 	 Temporary water transfer station 	  Временная  насосная  станция  
+临时配电所 	 Temporary substation 	  Временный  электрораспределительный  пункт  
+主配电站 	 Central substation 	  Главная  распределительная  подстанция  
+井口区域 	 Bank area 	  Приустьевой  участок
+人行道 	 Walkway 	  Пешеходная  дорожка  
+人行道 	Sidewalk 	Тротуары
+仓库 	 Warehouse  	  Склад  /  Складское  помещение  
+倒碴区	Tipping area 	Разгрузочная  площадка  
+倾卸区 	 Tipping area 	  Зона  сброса  
+加工车间 	 Workshop 	  Ремонтный  бокс  
+加油站	Fuel station 	  АЗС  автозаправочная  станция
+变电所	Substantion	Подстанция
+变电站 	 Substation  	  Трансформатор  
+地下仓库 	 Underground fuel storage 	  Подземный  склад
+废物通道的站立	Standing of waste pass 	Простой  породаспуска  
+提升机房 	 Winder house  	  Здание  подъемной  машины    
+搅拌站 	 Batching plant 	  БРУ  
+暖房	Calorifier 	Калориферная  
+机修间 	 Mechanical workshop 	  Цех/помещение  ремонта  и  обслуживания  
+机房 	 Machine room 	  Машинное  отделение  
+永居配电所 	 Permanent substation 	  Постоянный  электро  распределительный  пункт  
+泥浆制备站 	 Slurry preparation station 	  Станция  подготовки  шлама  
+消防材料仓库	Warehouse of fire protection materials	Склад противопожарных материалов 
+消防泵站	Fire Pump Station	Насосная станция пожаротушения 
+润滑站	Lubrication system 	Смазочная  станция  
+液压站	Hydraulic system 	Гидравлика  (маслостанция)  
+混合室厂房	Mixing room plant	Здание камеры смешения 
+灯房间 	 Lamp room 	  Ламповая  комната  
+炸药库	Explosive storage magazine 	Склад  взрывчатых  веществ   
+炸药库 	 Magazine  	  Склад  взрывчатки  
+电工模块式厂房	Electrician modular plant	Электротехническое блочно-модульное здание (БМЗ)
+矿井降级变电站 	Mine stepdown substation 	ГПП  главная  поверхностная  подстанция  
+粘土仓库室	Clay storage room 	Помещение  для  хранения  глины  
+维修站 	Repair bay 	Ремонтный  пункт  
+转运泵房	Dewatering station 	Перекачная  насосная  станция  
+钢筋加工车间 	 Boilermaker workshop 	  Цех  по  производству  стали
+锅炉房 	 Boiler house 	  Котельная  
+风压站 	 Wind pressure station 	  Компрессорная  станция  
+井口区域作业人员 	 Bank personnel 	  Операторы  в  устьевой  зоне  скважины
+实验室人员	laboratory people	лаборантский  состав
+普工	General worker 	Рабочий
+木工	Carpenter 	Плотник
+机械工	Mechanic	Механик  
+浇灰工 	 Construction worker 	  Бетонщик  
+焊工	Welder 	Сварщик
+环境工 	 Environmentalist 	  Эколог  
+装配工 	 Fitter 	  Сборщик/монтажник  
+起重工 	 Rigger 	  Стропальщик  
+钢筋工 	 Steel fixer 	  Арматурщик  
+钻工 	 Driller 	  Бурильщик  
+井筒倒碴工	Tip attendant 	Стволовщик
+井筒操作工	Banksman 	Стволовой  (регулировщик)  
+估计员 	Estimator 	Оценщик
+修理工	Fitter 	Слесарь
+吊物工人 	 Slinger 	  Стоповщик  
+喷浆工/湿喷工 	 Wetcrete operator 	  Оператор  торкрета/мокрого    торкрета
+国家专家评估委员会 	State expert appraisal committee 	Государственная  экспертиза  
+工长 	 Mining foreman 	  Горный  мастер  
+打眼工 	 Driller 	  Бурильщик  
+抓岩工	Cactus grab operator 	Оператор  грейфера  кактуса
+指挥员	Spotters	Регулировщик  (по  технике)  
+操作员/司机 	 Operator 	  Оператор  
+设计员 	 Design supervision 	  Авторский  надзор  
+安全工 	 Safety worker 	  Работник  по  Тб
+备品备件	Spares	Запасные части 
+		
+ 幅板-固定卷筒	Hub plate – Fixed Drum	Пластина втулки – Фиксированный барабан
+ 幅板-游动 卷筒	Hub plate – Clutched Drum	Пластина втулки – Бараьан с цепной муфтой
+ 拉伸强度 	Tensile strength	Нагрузка на растяжение
+ 气割机 	Gas cutting torch 	Газовый  резак  
+ 深度指示器 	Depth indicator 	Индикатор  глубины  
+ 用于离合操作的液压站	Hydraulic station for clutch operation	Гидравлическая станция для срабатывания муфты
+ 绳卡 	Crosby clamps 	Канатный  зажим  
+ 配电柜	Switchgear	Распределительное  устройство  
+(装弹机)装药机	(Shot loader) Charging machine 	Зарядная  машина  
+1号雨水净化设施	No. 1 rainwater purification facility	Очистные сооружения дождевых стоков №1
+2号排水渠	No. 2 Drainage Canal	Водоотводная канава 
+三相额定电压 	Voltage, 3-phase, nominal 	Электрическое напряжение, 3-фазное, номинальное 
+三相额定辅助电压	Auxiliary supply voltage, 3-phase, nominal 	Вспомогательное напряжение питания,  3-фазное, номинальное  
+上料斗	Travis car 	Загрузочный  бункер  
+下垂 	 Sag 	  Свисать/обвисать  
+下料管	Concreate lounder 	Питающий  рукав
+下降/放 	 Lower 	  Опускание/опустить  
+业主	Owner	Заказчик
+中间水平	Haulage level 	Промежуточный  горизонт  
+临时建筑	Temporary buildings	Временное сооружения
+临时支护	Temporary support 	Временное  крепление  (опоры)  
+临时支护 	 Temporary support 	  Опора/Стойка  
+临时砖锁口 	 Temporary brick 	  Временная  защитная  кирпичная  стенка  
+主凿 	 Main sink 	  Главный  период  проходки  
+主凿井 	 Main sinking 	  Основная  проходка  
+主轴	Main shaft 	ведущий  вал
+主轴	Drum shaft	Вал барабана
+主轴承	Shaft Bearings	Подшипники вала
+井口地坪	Bank concrete 	Бетон нулевой площадки
+井口建筑打桩机	Headgear with shaft structure 	Копер с надшахтным зданием 
+井壁 	 Shaft wall 	  Стены  ствола/скважины  
+井底 	 Shaft bottom 	  Дно  ствола  
+井架 	 Headgear 	  Копер  
+井架溜槽 	 Headgear chute 	  Разгрузочная  эстакада  
+井筒 	 Shaft 	  Ствол  
+井筒内梯道 	 Ladder way 	  Лестничное  отделение  
+井筒混凝土衬砌	Shaft concrete lining	Бетонную крепь ствола
+井颈/口 	 Shaft collar 	  Устье  ствола  
+交流 	 AC  	  Переменный  ток  
+交流/互动 	 Interaction 	  Диалоговое  взаимодействие  
+休假 	 On leave 	  На  отпуске  
+伞钻 	 Jumbo 	Джамбо  буровая  машина
+伞钻机 	Jumbo, drilling machine, drilling rig 	Буровой  станок,  карета,  буровая  машина  
+传送带 	 Conveyor 	  Конвейер
+伸缩缝 	 Expansion joint  	  Швы  расширения
+低压 	 low voltage  	  Низкий  вольтаж  
+作业平台 	 Operational platform 	  Операционная  платформа  
+使用条 件及基础数据	General Conditions and Basic Data 	Общие условия и основные данные
+供电 	 Power supply 	  Электроснабжение  
+供电/电源箱 	 Power box 	  Источник  питания/блок  питания
+供电电缆 	 Power cable 	  Кабель  
+供电设施	Power supply facility 	Объект энергоснабжения 
+保养/维修 	 Maintenance 	  Обслуживание  
+保护伞 	 Canopy 	  Купол  
+保温室 	 Insulation room  	  Парник  
+保温层 	 Insulation sheet 	  Изоляционное  полотно  
+保温板 	 Insulation board 	  Термоизоляционная  плита
+保温棉 	 Insulation cotton 	  Изолирующая  вата
+保温棚 	 Heat preservation shed 	  Теплоизоляционное  укрытие  
+信号室 	 Signal room 	  Сигнальный  кабинет  
+信号放大器 	 Signal amplifier 	  Усилитель  сигнала  
+信号电缆 	 Signal cable 	  Сигнальный  кабель  
+信号码	Signal code 	Сигнальный  код  
+修坡 	 Slope finishing 	  Ремонт  склонов  
+修改和调整	Revision and adjustment 	Ревизия и наладка 
+修正工程 	 Finishing work 	  Благоустройство  
+倒车喇叭	 Reverse horn 	  Реверсивный  гудок
+倾倒/翻到 	 Tip 	  Сброс/вываливать  
+假定设计边界	Conditional boundary of the design 	Условная граница проектирования 
+偏差	Deviation	Отклонения
+停工 	 Work stoppage 	  Приостановка  
+储存室 	 Store/Storage Room 	  Складское  помещение  
+储料仓 	 Material storage yard/Material warehouse 	  Склад  материалов
+储气罐 	 Gas tank 	  Газовый  резервуар/емкость  
+储罐 	 Storage tank 	  Резервуар  
+兆帕	Mpa	Мега  паскали  
+光纤电缆	Fiber optic cable 	Оптико-волоконный  кабель  
+公差	Deviation 	Отступление/отклонение  
+养护 	 Curing  	  Консервация  
+军事化矿山救护队	Paramilitary rescue team (unit) 	ВГСЧ  (Военизированная  горноспасательная  часть)  
+冲击器 	 Impactor 	  Ударное  устройство/импактор
+冲击性能 	Impact performance	Ударопрочность
+冻土 	 Frozen soil 	  Замерзающий  грунт  
+冻裂 	 Frost cracking 	  Трещины  от  мороза  
+净化器 	 Purifier 	  Очистное  сооружение  
+准备完好/到位 	 In place  	  На  месте  
+减少 	 Minimize 	  Уменьшать/сокращать
+减速器/减速机	 Reducer/Gearbox   	  Редуктор  
+减速度 	Retardation	Торможение 
+出水管 	 outlet pipe 	  Выходные  трубы  
+出渣/冲洗	Muckng/lashing	Выпуск шлака/жидкое шлакоудаление
+凿岩机	Rock drill machine 	Бурильный  молоток  
+凿岩机/破碎锤 	 Rock breaker 	  Бутобой  
+分包商	subcontractor	субподрядчик
+分包商	Sub-contractor 	Субподрядчик
+分灰器 	 Launder 	  Вымывать
+分荷梁 	 Spreader beam 	  Распределительный  брус  
+初步审查 	Preliminary examination 	Предварительная  экспертиза  
+到位传感器 	 Positioning sensor 	  Датчик  положения  
+制作 	 Manufacture 	  Изготовление  
+制动卡钳 	 Brake caliper 	  Тормозные  суппорты
+制动控制系统 	 Brake Control System 	 Система управления тормозами 
+制动盘外径 	Brake disc outer diameter 	Наружный диаметр тормозного диска 
+制动系统	Brake System	Тормозная система 
+制动臂	Brake arm 	Тормозной рычаг
+刹车系统	Brake system 	Тормозная  система  
+加固注浆	Reinforced and grouted 	  армированный  и  зацементированный  
+加工 	 Processing  	  Отработка  
+加工间	Processing workshop	
+加护	Support (casing)	Опора 
+加热器、风炮 	 Heater 	  Нагреватель  
+加热板 	 Sandwich panels for the heater 	  Панели  отопления(сандвич  образные)  
+加速度 	Acceleration 	Ускорение 
+动力机组	Power Unit	Энерго комплекс 
+升降平台 	 Boom lift 	  Подъемная  платформа  
+升降机	Manlift truck	Манипулятор  с  люлькой  
+升降车 	 Man lift 	  Подъемник  с  люлькой  
+单液浆	Cement only (no additives)	Только  цемет  (без  добавок)
+卫生 	 Hygiene 	  Гигиена  
+卷扬机室	Winder room 	Здание подъемной машины 
+卷筒	7-+	Барабан подъемника
+卷筒壳 – 两个卷筒 	Drum shell – Both Drums	Обечайка барабана – Обоих барабанов
+卷筒限位套-游动卷筒 	Drum Distance Piece – Clutched Drum	Дистанционная распорка – Барабан с цепной муфтой
+卸下 	 Offload/unload 	  Разгружать  
+卸扣	Shackles	Скобы,  мочка  (такелаж)  
+卸料 	 Discharge 	  Разгрузка  排出
+卸料平台	Tipping platform 	Решетка  Разгрузочная  платформа  
+卸料罐	Discharge tank 	Разгрузочный  бункер  
+卸矿栈桥	Unloading ramp	Разгрузочная эстакада 
+厂家	Manufacture	Завод/производитель  
+压力容器	Pressure vessel 	Сосуды  под  давлением  
+压力计 	 Manometer 	  Монометр  
+压实 	 Compaction 	  Уплотнение  
+压缩机/空压机 	 Compressor  	  Компрессор  
+原来的问题	Root causes 	Первопричина
+参数	Parameters	Параметры
+参数 	 Parameters 	  Параметры  
+双液浆	Two-shot grouting	двухзарядная  цементация
+反光条 	 Reflective tape 	  Светоотражающая  лента  
+发电机 	 Generator 	  Генератор  
+取水井 	 Borehole 	  Скважина  
+取矸石	Waste dump 	Отвал
+取芯钻进 	 Cored and Drilled 	  Отбор  проб  и  бурение  (кернинг)
+变压器 	 Transformer 	  Трансформатор  
+变形 	 Deformation 	  Деформация  
+可燃材料	Combustible material 	Горючий  материал  
+台架	Stand	Стеллаж
+合格	Meet requirements 	Соответствует  требованиям  
+吊桶 	 Kibble 	  Бадья  
+吊环螺栓 	 Eye bolt 	Подвесной  кольцевой  болт  
+吊盘 	 Stage 	  Платформа  
+吊篮 	 Bucket 	  Подвесная  люлька
+吊索 	 Sling (arm of a crane) 	  Стропа  
+吊耳	Lifting (Slinging) Lugs 	Подъемные  ушки  
+吊臂 	 boom 	  Стрела  (подъёмного  крана)
+吊装验算	Lifting calculation 	Расчет  подъема,  План  подъема  
+吊轮/吊龙/天轮 	 Sheave wheel 	  Шкив  
+吊钩 	 Hook 	  Крюк  
+吊顶 	 Ceiling 	  Потолок  
+名称	Name 	Наименование 
+吨位/载重量 	 Tonnage 	  Тон
+含水层 	 Water bearing bed/aquifer 	  Водносный  слой
+吸收	Absorption 	Впитывание
+告示板 	 Notice board 	  Информационная  доска  
+周边/外围 	 Periphery 	  Периферийность  
+商品交易所	Commodity exchange 	Товарная  биржа  
+喇叭口	Flares/bell mouth	Раструб,  Воронка  
+喷嘴 	 Nozzle 	  Сопло  
+喷浆机 	 Wetcrete machine 	  Торкрет  машина  
+喷混凝土 	 Concrete spraying 	  Спрей  бетона  (Торкрет)  
+噪音等级 	Noise level 	Уровень  шума  
+回填 	 Backfill 	  Обратная  засыпка  
+围栏 	 Fence 	  Ограждение  решетчатое  
+固定 	 Install 	  Укрепить  
+圈筋 	 Horizontal reinforcement 	  Горизонтальная  арматура  
+地下水位 	 Water table 	  Уровень  подземной  воды  
+地层	Strata (layer of sedimentary rock or soil) 	Пласт,  прослойка  
+地沟	Service pit 	Смотровая  яма  
+场地 	 Yard 	  Участок  
+坚固	Solid 	Сплошные/цельные  
+坠物	 Falling objects 	  Падающие  объекты
+坠落防护器	Sala block 	Страховочный  блок  с  втяжным  тросом  
+坡道/坡 	 Slope 	  Склон  
+垂直采矿工程 	Vertical capital mining works 	Вертикальные  выработки  
+型钢 	 Profile steel 	  Профильная  сталь  
+垫层 	 Blinding 	  подушка  (под  фундамент)
+垫层绕筑 	 Blinding casting 	  бетонирование  подушки  
+垫木 	 Plank 	  Настил/  брус
+垫片 	 Washer 	  Прокладки/  уплотняющая  прокладка
+垫铁	Sizing block 	Железная  прокладка/Подкладка  
+垫铁 	 Sizing block 	  Железная  прокладка  (стойка,  поддержка)
+城市建设	Urban Development 	Градостроительство
+培训室 	 Training room  	  Кабинет  инструктажа  
+基坑 	 Box cut 	  Котлован  
+基岩	Bedrock	коренная  порода  
+基岩 	 Bed rock 	  Скальное  основание  
+基础 	 Foundation 	  Фундамент  
+堆放	Stacking	Штабелирование,  Укладка  (материалов)  
+堆放 	 Pile 	  Укладка/Штабелированные/Свая
+堵水效果 	 Water plugging effect 	  Эффект  изоляции  водопротоков
+塌落 	 Fall of ground 	  Вывала  
+塔建 	 Erection 	  Воздвигать  пагоду  (башню)
+塞子	Plug 	Затычка,  закупорка  
+填写 	 Fill 	  Заполнять/заполнить  
+填缝/勾缝 	 Joint  	  Заделка  швов/связка
+墙 	 Wall 	  Стена  
+增压泵	Booster pump 	Бустерный  насос/Усилитель  
+壁座 	 Tow 	  Опорный  венец  
+壕沟	Trench 	Углубление/траншея  
+声光报警器 	 Audible and visual alarm 	  Светозвуковой  оповещатель  
+备注	Note 	Примечание 
+备用方案 	 Alternative scheme 	  Альтернативный  план  
+备足	Fully prepare 	Полностью  подготовить  
+复训、巩固培训 	 Refresher training 	  Повторный  инструктаж
+外伸脚架 	 Outrigger 	  Расширяющаяся  подставка  
+多插头 	Multi plug 	Удлинитель  для  розеток  
+多级泵	Stage water tank pump 	Ступенчатый  насос  
+大锤	Sledgehammer 	Кувалда
+天轮装置	Head sheaves	Шкивы 
+太阳能灯 	 Solar light 	  Солнечный  фонарик  
+夹具/夹子 	 Clamp 	  Зажим  
+套环 	 Thimble  	  Кольцо,  коуш  (A  thimble  is  a  small  pitted  cup  worn  on  the  finger  that  protects  it  from  being  pricked  or  poked  by  a  needle  while  sewing.)
+套管 	 Casing pipe 	  Обсадочная  труба  
+套管孔 	 Casing hole 	  Скважина  с  обсадочной  трубой  
+套管安装 	 Casing installation 	  Монтаж  обсадной  трубы  
+安装 	 Install/installation 	  Установка  
+定位 	 Position  	  Позиционировать
+定期 	 On regular basis 	  На  регулярной  основе  
+定量控制	Batching control 	Контроль  дозирования  
+实际偏差角度	Actual angle of deviation 	Фактический  угол  отклонения  
+审查、检查 	 Audit  	  Аудит\проверка  
+容器	Vessel	Сосуд
+容积为250立方米的净化雨水蓄水池	Purified rainwater reservoir with a volume of 250 cubic meters	Резервуар очищенных дождевых стоков емкостью 250 м3
+容积为4立方米的污水坑	Sump pit with a volume of 4 cubic meters	Выгреб емкостью 4м3
+对讲机 	 Radio communication 	  Рация
+导向管	Guiding pipe	Направляющая труба
+封印	Seal 	Пломба
+封口 	 Sealing 	  Запечатывание
+封闭 	 Close 	  Закрыть  
+尼龙绳	Nylon rope 	Нейлоновая  веревка  
+尽快 	 ASAP/ as quickly as possible 	  Как  можно  скорее/  в  кратчайшие  сроки
+尾矿管理设施 	 Tailing dam 	  Хвостохранилище  
+屈服强度 	Yield strength	Предел текучести
+屋架 	 Truss 	  Каркас  строения  
+屋面板	Shingle 	Кровельная  дощечка  
+岩心筒	Core Barrel 	Керноотборник
+岩心资料	Core log data 	Образцы  горной  породы  
+岩棉板 	 Stone wool board 	  Панель  из  минеральной  ваты  
+工作 	 At work 	  На  работе/работающий  
+工作面 	 Face 	  Забой  
+工勘	 Engineering survey 	  Инженерные  изыскания
+工地 	 Work site 	  Рабочая  площадка  
+工时 	 Work hours 	  Рабочее  время
+已执行 	 Implemented 	  Выполнено/реализовано
+布线、接线 	 Wiring  	  Электропроводка  
+布置	Arrangement	Расположение,  распланировка  
+布置 	 Layout 	  Макет/планировка  
+布置/安排 	 Arrangement 	  Организовать/распланировать  
+布置图	Layout	Схема  размещения/расположения  
+帷幕注浆	Cover drilling and cementation 	  Бурение  и  цементация  
+帷幕注浆 	 Cover drilling and cementation 	  Бурение  и  цементация  
+干喷 	 Shotcrete 	  Торкрет  
+平台 	 Platform  	  Платформа
+平均进尺 	 Average penetration rate 	  Средний  уровень  проходки  
+平板夯	 Small plate compactor 	  Вибро
+平衡锤/配重 	 Counterweight 	  Противовес  
+序列号 	 Serial number 	  Серийный  номер  
+序号	No. on the plan 	Номер на плане 
+底模 	 Bottom shutter 	  Нижняя  опалубка  
+底部/地板 	 Floor 	  Пол  
+废物在室内储存 	Storing of waste in chamber 	Складирование  породы  в  магазинах  
+废石 	 Waste rock 	  Пустая  порода  
+延伸率 	Elongation	Удлинение
+延长	Extension	Удлинение
+延长 	 Extension 	  Продлевать/удлинять
+延长线	Extension cord 	Электрический  удлинитель  
+建筑物 	Buildings and structures 	Здания и сооружения 
+建筑物一览表	List of buildings and structures 	Экспликация зданий и сооружений 
+开关柜子	Electrical box (Distribution board) 	Электрический  щит  
+开孔圈 	 Opening ring 	Кольцо  закладка  скважины
+开孔直径 	 Opening diameter 	Диаметр  закладной  скважины
+开挖 	 Excavate/Excavation  	  Разработка  грунта  (выемка)  
+张紧装置 	 Tensioning device 	  Натяжное  устройство  
+弯曲	 Bend 	  Изгиб/искривление  
+弯曲机	Bending machine 	Гибочный  станок  
+弯管 	 Elbow pipe 	  Сгибающейся    труба  
+彩钢瓦 	 Covering sheet material 	  Профлист/профнастил
+影响/后果 	 Effects/aftermath 	  Последствия  
+影响/耽误 	 Affect 	  Влияние/влияние/задерживать  
+循环 	 Cycle 	  Цикл/циркуляция  
+循环水 	 Circulating water 	  Циркуляционная  вода
+循环进尺	Cycle footage 	Цикл  глубины  бурения  (проходки)  
+微粉水泥	Microfine cement 	Микротонкий цемент
+总体条件	General Conditions 	Общие условия
+总体规划 	Master plan 	Общий  план  
+悉知 	 Be aware of 	  Ознакомить  
+悬吊 	 Suspend 	  Подвесной  
+悬吊钢丝	Suspended rope 	Подвесной  трос  
+意见摘要 	Punch list  	Свод  замечаний  
+成套“罐笼送风”井	Air-supply-cage complex	Комплекс"Воздухоподающей-Клетевой"
+扁钢	Flat bar 	Стальные  полосы  
+手动报警 	 Manual alarm 	  Механическая  сигнализация  
+手拉葫芦 	 chain block 	  Ручные  цепные  лебёдки
+手推车	Trolley	Тележка
+手枪钻机	Pistol drill 	Пистолетная  дрель  
+打结 	 Knot 	  Узел/завязать  узел  
+打钻	Drilling	  Бурение  
+打钻 	 Drilling 	  Бурение  
+托架、托盘 	 Tray 	  Лоток  
+扩散半径 	 Diffusion radius 	  Радиус  диффузии
+扫孔 	 Re-drill/ Clean 	Повторное  просверливание  /  чистка  
+扬声器 	 Speaker 	  Громкоговорители  
+扬尘等级	Dust level 	Уровень  пыли  
+扶手 	 Handrail 	  Перила  
+批准 	 Approve 	  Согласование  (Approval)
+找坡 	 Sloping  	  Поиск  склонов  
+找平 / 整平 	 Leveling  	  Балансировать/выравнивать  
+承包商	Contractor 	Подрядчик
+技术监察	Technical Supervision	Технический  надзор
+抓岩机	Grab loader/cactus grab 	Грейферный  погрузчик
+抓岩机 diao4dou3 	 Cableway bucket/grab 	  Грейфер/бадья  (экскаватор  на  тросе)  
+投光灯/照明灯 	Flood light 	Прожектор/прожекторное  освещение  
+抗 	 Pit 	  Приямок  
+护坡 	 Slope protection 	  Защита  
+护栏 	 Guardrail 	  Ограждение  
+抹灰 	 Plastering  	  Штукатурить  
+拆除 	 Strip 	  Снимать/снять  
+拉车线 	Trolley wire 	Троллейные  проводки  
+拓展 	Expansion 	Расширение
+拖延 	 Lagging 	  Задержка
+招聘 	 Recruit 	  Найм  
+拟建	Designated	Проектируемые
+拱墙 	 Arch wall 	  Сводчатые  стена  
+拼接/搭接长度 	 Overlap length 	  Длина  нахлестки  
+拼装/组装 	 Assemble 	  Сборка/монтаж
+挂牌上锁制度 	 LOTO lockout tagout 	  Система  пломбирования  LOTO
+挂钩 	 Hook 	  Крюк/защёлка
+指示器/指标	Indicator	Показатель
+按照 	 According to 	  Согласно  чему  
+挖掘机	Excavator	Экскаватор  
+振动器/震动泵 	 Electrical vibrator 	  Строительный  вибратор  
+换班室 	 Change room and Lamp room 	  Комната  для  переодевания  и  ламповая  комната  
+排列次序	Sequence	Порядок  размещения,  последовательность  
+排放门 	Discharge Gate 	Затвор  слива  
+排水沟 	 Drain 	  Дренажная  канава  
+排水沟 	Drainage ditch	Водоотводной ковет 
+排水管 	 Drain pipe 	  Дренажные  трубы  
+排水管 	 Drain pipe 	  Дренажные  трубы  
+排水系统 	 Drainage system  	  Дренажная  система  
+掘进作业 	 Excavation operation 	  Операция  по  выемке  грунта
+探水注浆 	 Cover drilling and cementation 	  Гидроизоляция  и  цементация
+探照柱	Illumination column	Прожекторная мачта 
+探照灯 	 Searchlight 	  Прожектор  
+接口/接头/缝 	 Joint  	  Стыки/швы
+接地 	 Earthing/Grounding 	  Заземление  
+接地漏电 	 Earth leakage 	  Электр.  Утечка  в  заземлений  
+接地网 	 Earthing grid 	  Сеть  заземления  
+接地隐蔽工程	Earthing hidden works 	Скрытые  работы  на  контур  заземления  
+接头	Fittings and couplings 	Муфты  и  шарниры  
+接杆 	 Extention rod 	  Удлинительная  штанга  
+接线盒 	 Junction box 	  Распределительная  коробка
+控制电压 	Control Voltage 	Напряжение оперативного тока
+控制箱 	 Control box 	  Блок  управления  
+推土场 	 Dumping site 	  Отвал  (Dumping  area)
+推车器 	 Car pusher 	  Толкатель  
+提交 	 Submit 	  Сдать/сдавать  
+提人载荷 	Payload (Man Hoisting) 	Полезная грузоподъемность (при подъеме людей) 
+提供 	 Provide/Present 	  Предоставить  
+提前 	 In advance 	  Заранее/Предварительно  
+提升/吊 	 Lift 	  Поднимать/поднять  
+提升机 	 Winder 	  Подъемная  машина  
+提升电机	Hoisting Motor	Двигатель подъемника
+提升转移 	 lift and shift 	  Подъём  и  передвижение  
+提升轮	Pulley 	Шкив
+提升速度	Hoisting speed 	Скорость  подъема  
+插座 	 Socket  	  Розетка  
+插销 	 Pin 	  Штифт  (крепёжное  изделие  в  виде  цилиндрического  или  конического  стержня,  предназначенное  для  неподвижного  соединения)
+揭露情况 	 Exposure 	  Раскрытие  информации  
+搅拌 	 Batch 	  Замес  
+搅拌车 	 Miller 	  Бетононасос
+搭建 	 Erection duration 	  Продолжительность  монтажа  
+摇摆 	 Swing 	  Качается  
+撬下浮石	Roof scaling/Barring (all sides) 	Оборка  заколов  
+撬棍	Scaling bar 	Оборочный  лом  
+操车机 	 Car handling machine 	  Манипулятор  
+操车系统 	Mine Car Operating System	 Операционная система шахтной вагонетки 
+擦拭布片	Cleaning cloth 	Обтирочная  ветошь  
+支护 	 Support 	  Опора/Стойка  
+支撑 	 Support 	  Крепи  
+支架 	 Bracket  	  Кранштейны  
+支腿板	Out riggers 	Выносные  опоры  
+改造 	 Modification 	  Реконструкция  
+放置 	 Place 	  Положить  
+散水坡 	 Water slope 	  Водяной  склон  
+数字硬盘录像机	DVR (digital video recorder) 	Видеорегистратор
+整体墙 	 Concrete wall 	  Монолитная  стена  井架房的混凝土墙
+文明生产	Housekeeping 	Чистота  и  порядок  
+斜撑 	 Rakker leg 	  Распорка  
+断路器/隔离开关	Circuit breakers 	Разъединители
+方位 	 Orientation 	  Направление  
+方案 	 Scheme 	  Метод/вариант  
+方案/方法 	 Method/Approach  	  Метод  
+施工/建造 	 Construct 	  Строить  
+施工方案 	 Method Statement  	  План  производство  работы  ППР
+施工进度	Method of statement 	План  производства  работ  (ППР)
+施工违规 	 SniP Construction violation 	  СниП  (нарушение  норм  строительства)
+施工顺序/步骤 	 Construction sequence 	  Последовательность/шаги  строительства
+无缝钢管 	 Seamless steel pipe 	  Бесшовная  труба  
+日报 	 Daily report 	  Ежедневный  отчет  
+日程/进度表 	 Schedule 	  График  
+暂停施工 	 Suspension 	  Приостановка  строительства  
+暂定/暂时 	 Temporary/provisional 	  Временный  
+暖气片 	 Heating radiator 	  Радиатор  
+暖通 	 HVAC 	  ОВ/отопление  и  вентиляция  
+更换/替换 	 Replace  	  Заменить  
+最大电压波动(瞬时的) 	Voltage fluctuation (transient), max 	Колебания напряжения (скачки напряжения), макс.
+有/存在/到位 	 Available  	  В  наличии  
+木材储存 	 Woodstore 	  Лесосклад
+木板	shutters	опалубки  
+木架 	Purlin roof 	Обрешетка/решеточная  крыша  
+未决事宜 	 Pending issue 	  Нерешенный  вопрос  
+未处理的水 	 Untreated water 	  Неочищенная  вода  
+机械设备	Mechanical equipment	Механическое оборудование
+机油 	 Engine oil 	  Двигательное  масло  
+松散土 	 Loose soil 	  Сыпучий  грунт  (Рыхлый)
+枕木 	 Sleeper 	  Шпалы  
+架桥、高架 	 Trestle 	  Эстакада  
+柱 	 Column 	  Колонна  
+柱塞结构 	 Ram construction 	  Постройка  пандуса  
+柱子	Column	Колонна
+柴油 	 Diesel 	  Дизель  
+柴油隔舱 	 Diesel Bay 	  Дизельный  отсек  ГСМ
+标准操作规程 	 SOPs (Standard operating procedures) 	  Стандартные  рабочие  процедуры/  производственные  инструкции
+标志牌 	 Sign 	  Знак  
+标牌	Sign board 	Табличка,  Маркировочная  бирка  
+标签、挂牌 	 Tag 	  Бирка  
+标记 	 Mark 	  Отметка/маркировка  
+树脂药卷 	 Resin cartridge 	  Смоляной  картридж
+校准 	 Align/calibration   	  Калибровка  
+格栅 	 Granting 	  Решетка  
+桁架 	 Purlin 	  Каркас  обрешетина
+桁架 / 屋架	Truss	Железный  бейфут,  Стропил,  каркас  из  балок  
+桥式起重机 	 Bridge crane  	  Мостовой  кран  (in  warehouses)
+桩 	 Pile 	  Свая  
+梁 	 Beam 	  Балка  
+梁式起重机	Winch on the beam 	Кран-балка  
+检修盒 	Maintenance box	Коробка  техобслуживания
+检查 	 Inspection  	  Инспекция  
+棉被 	 Cotton quilt 	  Войлочное  одеяло  
+棚 	 Shed  	  Навес  
+棚布 	 Shed cloth 	  Навес  (тканевый)
+楼梯 	 Stairs/stairway 	  Лестница  
+概算	Cost estimation 	Смета
+概述 	General description	Общее описание 
+模板 	 Shutter 	  Опалубка  
+模板加固/支护 	 Support of shutter 	  Опора  опалубки  
+横的	Horizontal	Горизонтальный
+橡胶鞋 	 Gum shoe 	  Резиновые  ботинки  
+止浆垫 	 Grouting pad 	  Шламовая  заглушка/  Бетонная  подушка
+止论块/防回滚 	 Wheel chock 	  Стопор/  противоскаты  
+止车器 	 Car stopper 	  Стопор  
+歧管	Manifold	Вентильный  блок/манифолд  
+段/部分 	 Section 	  Пункт/секция  
+毡靴 	 Felt shoe 	  Валенки  
+气压表	Barometer (air pressure) 	Барометр
+气瓶	Gas cylinder 	Газовый  баллон  
+氯化钙 	 Calcium chloride 	  Хлорид  кальция  
+水处理 	 Water treatment 	  Водоготовка  
+水循环/回收 	 Water recycling 	  Циркуляция  воды  
+水文/水利性质 	 Hydraulic properties 	  Гидрологический/гидравлические  характеристики  
+水泥浆 	 Cement slurry  	  Цементный  раствор  
+水玻璃 	 Sodium silicate/silica 	  Силикат  натрия  
+水管道	Water Pipeline 	Водопровод
+水罐 	 Water tank 	  Резервуар/емкость  
+水胶/止水带 	 Water seal 	  Гидрогель/водозаборы
+水车/拉水车 	 Water truck 	  Ассенизатор/водовоз
+污水处理场 	 Water treatment plant 	  Водоочистная  станция  
+污水处理设备 	 Sewage treatment facility 	  Оборудование  для  очистки  сточных  вод
+汽油 	 Gasoline 	  Бензин
+沉淀池	Settling pond/Settlers 	Отстойник
+沉淀池 	 Sediment tank 	  Отстойник    
+沙子 	 Sand 	  Песок  
+没收 	 Confiscate 	  Конфискация  
+沥青 	 Asphalt 	  Битум/асфальт  (черная  смола)
+油毡	 Linoleum 	  Линолеум
+油锯	Chainsaw	Бензопила
+油风炮	Diesel heater 	Дизельная  пушка
+泄露	Emission	Выбросы  
+泄露	Spillage/leakage 	Утечка/выброс/разлив  
+法兰连接 	 Flange joint 	  Фланцевый  сток  
+泥浆	Slurry 	Жидкая  глина  
+泥浆泵 	 Mud pump 	  Буровой  насос  
+注浆泵 	 cementation pump 	Тампонажный  насос  
+注浆高度 	 Cover height 	  Высота  цементации  
+泵车 	 Concrete pump 	  Бетононасос
+活口扳手	Adjustable spanner 	Разводной  ключ  
+浆液配比 	 Cementation ratio 	  Пропорции  цементной  смеси  
+浇筑 	Pouring （concrete)	заливка  (бетона)
+测斜	 Survey 	  Инклинометрия  
+测量 	 Survey/measure  	  Измерение/исследование  
+浓缩机	Concentrator 	сгуститель/загуститель
+浮标 	 Float  	  Поплывок  
+涂刷 	 Paint 	  Краска  
+涂层 	 Coating 	  Покрытие  
+消除 	 Eliminate 	  Устранять/устранить  
+润滑剂 	 Lubricant  	  Смазочная  жидкость  
+液压起重器	Hydraulic jack 	Гидродомкрат
+液压风镐	Hydraulic jackhammer  	Гидравлический  отбойный  молоток
+混凝土	Concrete 	Бетон
+混凝土搅拌机	Pan mixer 	Бетоносмеситель
+混凝土搅拌装置	Wetcrete Plant 	БСУ  (бетоносместительные  установки)
+混凝土板	Concrete slab 	Бетонная  плита  
+混凝土矮墙 	 Bunk wall 	  Бетонные  невысокие  стены  
+混凝土绕筑 	 Concrete casting 	  Бетонирование/Прием  бетона  
+混凝土面抹平 	 Floating  	  Сглаживание  бетонных  поверхностей  
+清单 	 list/checklist 	  Список/Чеклист  
+清洗室 	 Wash bay 	  Камера  мойки  
+清理/清淤 	 Muck out/Clean 	  Очистка  
+渗水 	 Water seepage 	  Проницаемость  воды  
+温度计 	 Thermometer 	  Термометр  
+湿喷 	 Wetcrete 	  Мокрый  торкрет  
+溜子	Chute	Жёлоб
+溜滑 	 Slippery 	  Скользко
+溶液	 Solution  	  хим.  Раствор  
+滑倒 	 Slip and fall 	  опрокинуться  (упасть)  [поскользнувшись]
+滑架	Crosshead	Ползун/Траверсы  
+滑架信号系统 	 Crosshead signal system 	  Сигнальная  система  для  направляющей  рамы  бадьи  
+滑模 	 Sliding shutter  	  скользящая  опалубка
+滚筒	Drum/roller 	Барабан/каток  
+漏油 	 Oil spillage 	  Утечка  масла  
+潜孔钻机 	 DTH in-the-hole drill	  Погружная  бурильная  машина
+潜水泵	Submersible pump 	Погружной  насос  
+潜水泵 	 Submersible pimp 	  Насос  погружной  
+炮眼崩矿法	Delay blasting 	Шпуровая  отбойка  
+炸药 	 Explosive 	  Взрывчатка  
+炸药加工集装箱	Explosives container 	Контейнер  взрывчатых  материалов  
+点焊 	 spot welding 	  точечная  сварка  
+烟雾探测器 	 Smoke detector  	  Датчик  дыма  
+热处理和焊接检查 	 Heat Treatment and Weld Inspection 	Термическая обработка и контроль качества сварных швов
+焊接	Welding 	Сварка
+焊接 	 Weld 	  Сварить  
+照明 	 Lighting 	  Освещение  
+照明灯 	 Floodlight 	  Прожектор  
+爆破 	 Blast 	  Буровзрывные  работы  
+爬梯	ladder stand	стремянка
+爬行梁	Crawl beam	Навесная  балка,  ползучая  
+爬行速度 	Creep speed 	Скорость ползучести 
+牵引	 Traction 	  Тяга/сцепление  
+环境审查 	 Environmental Audits 	  Экологическая  проверка  
+环形取样法 	 Ring sampler/ rotated sampling 	  Пробоотборник  кольца/поворотный  пробоотборник
+环形沟 	 Circular drainage 	  Кольцеобразный  канал  
+玻璃纤维 	 Fiberglass 	  Стекловолокно  
+瑶台 	 Swing deck 	  Площадка  качающаяся  
+生命线	Lifeline	Спасательная  верёвка
+电事故	Electrocution 	Поражение  электрическим  током  
+电伴热丝 	 Electric heat wires 	  Электрические  теплопроводы      
+电加热棒 	 Electric Heating rods 	  Стержень  с  электроподогревом
+电动机 	 Motor 	  Двигатель/мотор  
+电压波动	Voltage fluctuations 	Колебания напряжения 
+电机	Motor	Электродвигатель
+电机冷却风机	Motor Ventilation Fan	Вентилятор двигателя
+电机数据 	Motor Data	Данные о двигателе
+电气盘柜 	 Electrician panel 	  Шкафы  электрических  панелей  
+电流	Current 	Ток
+电流强度	Amperage 	Сила  тока  
+电线/供电线 	 Power line 	  Электропроводка  
+电缆延长线	Electrical extension cord 	Кабель  –  удлинитель  
+电缆桥架	Cable trays 	Кабельные  лотки  
+电缆沟 	 Cable trench  	  Кабельная  траншея  
+电缆盘	Cable reel 	Катушка  кабеля  
+电路图	Electrical circuit diagram 	Электросхема
+电铃	Bell	Колокольчик
+电阻	Resistance 	Сопротивление  
+疏水平巷	Drain drive 	Дренажный  штрек  
+登记/注册 	 Register 	  Регистрация  
+监理/监督 	 Technical supervision 	  Технический  надзор  
+盘型制动器 	Disc brake 	Тормозной  диск  
+直径 	 Diameter 	  Диаметр    
+直流 	 DC direct current 	  Высокий  вольтаж
+石棉 	 Asbestos 	  Асбест/горный  лён
+石膏板 	 Plasterboard 	  Гипсовая  доска  
+矸石	Waste	Порода
+矿床	Ore body 	Залежи
+矿泥 	 Sludge 	  Шлам  (отходы  при  разработке  горного  продукта)
+矿泥沉淀池	Sludge pit 	Шламоотстойники
+矿浆 	Pulp	Пульпа  
+矿石溜井	Ore pass 	Рудоспуск
+矿车载重 	Payload	Полезная грузоподъёмность 
+砂浆 	 Mortar 	  Раствор  
+砌筑/砌壁	 Concrete lining 	  Кладка/футеровка  
+砖基 	 Brick base  	  Кирпичный  фундамент  
+砖墙 	 Brick wall 	  Кирпичная  стена  
+砖砌 	 Brick work  	  Кирпичная  кладка  
+砾石	Gravel 	Крупный  песок  
+硬化 	 Hardening 	  Отвердевание
+硬度 	Hardness	Твердость
+硬石 	 Hardrock 	  Скальник  
+确定 	 Determine  	  Устанавливать/определять  
+碎石/石子 	 Gravel/crash stone 	  Щебень  
+碎石层 	 Gravel layer 	  Слой  щебня  
+碰撞 	 Collision 	  Столкновение  
+磨损 	 Wear 	  Износ  
+磨片机	Grinding machine 	Шлифовальный  станок  
+禁止使用	Not allow to use 	Запретить  в  использовании  
+离合器 	 Clutch 	  Сцепление  
+离合器操作顺序	Sequence of operation at un-clutching	Последовательность действий при размыкании сцепления
+离合器机械安全阀	Clutch Movement Mechanical Safety Valve	Механический предохранительный клапан механизма сцепления 
+离合控制系统 	Clutch Control System	Система управления муфтой
+离心泵 	Centrifugal pumps 	Центробежные  насосы  
+移交 	 Handover  	  Прием
+移机	Move the drill	Переместить  буровую  машину
+移除 	 Remove 	  Убрать  
+空压机	Air compressor 	Воздушный  компрессор  
+空气加热设备 	 Air Heating Plant 	  СОВ  (Система  обогрева  воздуха)
+筒仓 	 Silo 	  Силовая  башня  (Башня  для  цемента)
+筒壳和幅板 	Shell and hub plates 	Обечайки и пластины втулок 
+简报 	 Briefing 	  Брифинг  
+管绝缘	Cladding (isolation) 	Изоляция,  облицовка  (труб)  
+管缝锚杆 	 Split sets 	  Трубчатый  фрикционный  анкер
+管道	Pipeline 	Трубопровод
+管道弯曲 	 Pipe bents 	  Поворот  трубы  
+管道绳 	 Guide ropes 	  Направляющий/проводниковый  канат  
+管道连接器 	 Pipe connectors 	  Муфта  
+粘土 	 Clay 	  Глина  
+系杆 	 Tie bar 	  Сцепной  брус  
+紧固	Tightning	Закрепить  (напр.  болтами)  
+紧急供气室	Refuge chamber 2nd 	КАВС-2    (камера  аварийного  воздухоснабжения)
+纪律	Discipline	Дисциплина  
+细化 	 Break down/ to elaborate 	  Детализация
+绕混凝土 	 Concrete pouring 	  Бетонирование/Прием  бетона  
+给排水设施	Water and drainage facilities	Сооружение водоснабжения и канализации
+给水管/给料管 	 Feed pipe 	  Питающие  трубы/фидерные  трубы  
+绞车/稳车 	 Winch 	  Лебедка  
+绳子	Hemp rope 	Пеньковый  канат,  канат  
+绿化 	 Landscaping 	  Озеленять/озеленение  
+缆索夹 	 Clip for a cable  	  Зажим  для    троса  
+缆线锚杆支护 	 Cable anchor support 	  Опора  для  кабельного  анкера  马头门眉上两排预支护
+缠绳	Rope up 	Наматывание
+缺陷 	Deviation 	Брак/неисправность/изъян  
+罐托 	 Cage holder 	  Кулак  посадочный  
+罐笼 	 Cage 	  Клеть  
+罐笼+平衡锤	Cage/Countweight	Клеть/Противовес
+罐道梁 	 Buntons 	  Рама/балка  проводника  
+网片	Mesh	Сетный полотно
+翻车 	 Overturn 	  перевернуться  (о  машине)
+联轴节	Coupling	соединительная  муфта
+聚乙烯莫 	 PE film/polyethylene 	  Полиэтиленовая  пленка
+聚合物莫 	 Polymer film 	  Полимерная  пленка  
+胶带输送机斜井	Conveyor decline 	Конвейерный  уклон  
+脚手架 	 Scaffold 	  Эшафот  
+脱落 	 Peeling 	  Отваливаться/отстать/осыпаться
+膨胀联轴节	Adjustable coupling 	Расширительная  муфта  
+自动化 	 Automation 	  Автоматизация  
+自卸车	Dump truck	Самосвал
+节流阀 	Throttle 	Ограничитель/дроссельный  клапан
+花纹钢板	 Steel plate/Riffled plate	Рифленая листовая сталь
+药泵	Dosing pump 	Дозатор
+蒸汽管道	Steam pipes 	Паропровод
+蓄水池 	 Reservoir 	  Резервуар  
+薄板/片 	 Sheet 	  тонколистовой
+螺丝刀	Screwdriver 	Отвёртка  
+螺帽	Nut	Гайка  
+螺栓 	 Bolt 	  Болт  
+螺母扳手/扳手 	 Spanner/wrench 	  Гаечный  ключ
+螺纹钢 	 Steel bar 	  Винтообразная  арматура  
+裂缝 	 Crack 	  Трещина
+装修装饰工程 	 Completion work 	  Благоустройство  主体完工后的修饰工作
+装料斗	Hopper 	Бункер,  загрузочная  воронка  
+装药 	 Charge 	  Заряд/заряжание  
+装药和爆破	Charge up and Blasting 	Заряжать  и  взрывать  
+装配 	 Assembly 	  Сборочная  работа  (мотаж)
+要求 	 Require/request 	  Требовать/требование  
+要求 	 Requirements 	  Требования  
+观察员/指挥员 	 Spotter 	  Корректировщик/наблюдатель
+规格	Specification 	Стандарт
+规范 	 Specification 	  Образец/стандарт  
+视频监控系统	Video surveillance system 	Система  видеонаблюдения  
+角垫 	 Corner pad 	  Углавая  накладка  
+角度 	 Angle 	  Угол  
+角磨机	Angle grinder 	Болгарка
+解决 	 Sort out/address 	  Решить  
+警示灯 	 Warning lights 	  Предупредительные  огни
+计算费用 	 Cost estimation 	  Смета  
+设备安装 	 Equipping 	  Монтаж  оборудование  Eequipment  installation  
+设备抗 	 Equipment pit 	  Приямок  для  оборудования  
+设定	Settings	Настройка
+设施 	 Facility 	  Инфраструктура  
+设立/塔建 	 Establish 	  Установить  
+设计规范	Design standards 	Нормы  проектирования  
+试运行 	Pre-commissioning 	Предварительный  ввод  в  эксплуатацию  
+详细 	 Detailed 	  Детальный  
+调整爆破	Sliping/Correction blasting 	Корректирующие  взрывания/Выравнивание/Снятие  породы  
+调绳离合器	Clutch	Муфта цепная
+调试	Commissioning	Пуско-наладочные  испытания  
+调试 	 Commission 	  Пусконаладочные  работы  
+起动调试工作	Commissioning work 	ПНР  (Пуско-наладочные  работы)  
+起皱/褶皱	 Wrinkle 	  Складка/образование  складки  
+起重器	Jack 	Домкрат
+起重机/吊车 	 Crane 	  Кран  
+超载 	 Overload 	  Перегрузка  
+跟进 	 Follow up 	  Следить  (за  работами)  
+路缘石 	 Curb  	  Кребс  
+路肩 	 shoulder 	  Плечи  дороги  
+路障 	 Barricade 	  Завал  [на  дороге]
+踢脚 	 Skirting/ Tow  	  Юбка  (ствола)
+转环 	 Swivel 	  Верглег  (шарнир,  подвижное  соединение,  исключающее  передачу  вращения  с  одного  элемента  соединения  на  другой)
+转矩扳手	Torque spanner/wrench 	Динамометрический  ключ  
+轮毂 	Hubs	Втулки
+软管 	 Hose 	  Шланг
+轴心	Axis 	Ось
+轴承 	 Bearing 	  Подшипник  
+轴承梁	Bearing housing 	  Балка  подшипника
+边墙/侧壁 	 Sidewalls 	(Защитная)  стена  
+过卷	Over winding 	Перетяжка
+过卷器 	 Limit switch (Crane) 	  Концевой  выключатель  (Кран)
+过流保护设定	Overcurrent protection settings 	Настройка  защиты  от  сверхтоков  
+运输 	 Transport 	  Перевозка/Транспортировка
+进尺 	 Advance 	  Глубина  бурения  (проходки),  проходка  
+进水管 	 Inlet pipe 	  Впускные  трубы  
+进风通风室 	 Ventilation chamber  	  Приточное  вентиляционное  помещение
+违反、违规 	 Violate  	  Нарушение  
+连接 	 Attach/Connect 	  Соединение/соединить  将稳车与井架连接等
+连接 	 Coupling  	  Стыковка  延长钻杆时需进行连接
+连接件 	 Connecting pieces  	  Соединения
+送风机 	 Blower  	  Воздувка
+适配器 	 Adaptor 	  Адаптер
+通讯 	 Communication 	  Связь  
+通道和平台	Access and Platform	Проезды и площадки 
+通风 	 Ventilation  	  Вентиляция  
+通风栈道	Ventilation drive 	ВЗШ  (вентиляционный  закладочный  штрек)  
+通风管	Ventillation pipe 	Вентиляционная  труба  
+通风道	Ventilation duct 	Вентиляционный канал 
+遵守/符合 	 Comply with  	  В  соответствии  
+避雷等级	Lightning level 	Уровень  молниезащиты  
+配件 	 Spares 	  Запчасти
+配电箱 	 Distribution box 	  Распределительная  коробка  
+采矿设备 	Mine equipment 	Горно  шахтное  оборудование  
+重复工作/返工 	 Redo poorly done work	  Вернуть  для  доработки  (переделки)
+重新提交 	 resubmit 	  Подать  повторно  (документы)
+金属拱 	 Metal arch 	  Металическая  
+钢丝绳	Steel wire 	Стальной  трос  
+钢丝绳 	 Wire rope 	  Металл  канат
+钢丝绳强度	Rope strenght 	Прочность  каната  
+钢丝绳拉力控制装置	Rope tension control device 	Механизм  управления  натяжением  каната  
+钢件 	 Steel 	  Металлическое  изделие  
+钢板 	 Steel plate 	  Листовая  сталь  
+钢梁 	 Steel beam 	  Стальная  балка  
+钢筋 / 扎钢筋	 Reinforcement 	  Арматура  
+钢筋加强/加固 	 Reinforcing 	  Армирование  
+钢筋绑扎 	 Reinforcement binding 	  Вязка  арматуры  
+钢筋网/金属网/支护网 	 Mesh 	  Сетка/яцейка
+钢管道 	 Steel rail guide 	  Проводник  
+钢管道 	Steel pipe	Стальной трубопровод
+钢结构 	 Steel structure 	  Металлоконструкция  
+钩环 	 Shackle (U-shaped link) 	  Хомут  (U-образное  звено)  
+钳子 	 Pliers 	  Плоскогубцы
+钻 	 Drill 	  Бурить/бурение  
+钻个孔	Slot	Щель/отверстие  (сделать  отверстие)  
+钻塔 	 Drilling tower 	  Буровая  вышка  
+钻头	Drill bit/Diamond bit 	Буровая  коронка  
+钻孔 	 Drilling hole 	  Скважина  
+钻机 	 Drilling machine 	  Буровая  установка  
+钻杆 	 Drill rod  	  Буровая  штанга/стержень    
+铅锤	Plumbbob	Отвес
+铜瓦 	Drum Bushes 	Втулка барабана
+铲斗	Bucket (excavator, loader) 	Ковш  (экскаватор  погрузчик)
+铲车 	 Bucket loader 	  Ковшовый  погрузчик  
+铲车 	Front loader	Ковшовый  погрузчик
+铲齿 	 Bucket teeth 	  Зуб  ковша  (строительного)
+铺设电缆 	 Cable rack  	  Кабельный  желоб/лоток  
+铺路 	 Pave 	  Проложить  дорогу/тротуар  
+链条葫芦	Chain block 	Цепная  таль  
+锚杆 	 Anchor 	  Анкер  
+锚索 	 anchor rope/cable bolt 	  Канатный  анкер  
+锚网支护	Drilling support 	  Анкерная  крепь  
+镀锌管	Galvanized (silver paint) 	Оцинкованная  (труба)  
+长孔钻机	Solo, Sandvik (longhole drill rig) 	Буровая  установка  (для  глубоких  скважин)  
+闸盘 	Brake disc(s) 	Тормозной(ые) диск(и) 
+阀/高压闸阀 	 Valve/ high pressure gate valve  	  Кран/Вентиль/клапан/задвижка
+阀门	Valve	Клапан
+阀门连接器 	 Valve connector	  муфта  соединение  с  ручкой  крана  (муфта  с  резьбой  для  крана)  
+防冻液 	 Antifreeze solution 	  Антифриз  
+防坠器 	 Parachute 	  Шахтный  парашют/ограничитель  
+防晒材料 	 Anti-shine material 	  Материалы  для  защиты  от  солнца  
+防水布	Tarpaulin (waterproof material) 	Брезент  (Грубая  плотная  непромокаемая  ткань)  
+防滑链 	 Chain 	  Противоскользящие  цепи
+防潮措施 	 Water burst prevention measures 	  Влагозащитный  меры  
+防雷 	 Lightning protection 	  Молниезащита  
+防静电 	 Anti-static 	  Антистатический  
+附件套件	Accessory Set	Комплектующие части и принадлежности
+附属 	 Auxiliary 	  Вспомогательный  
+附约	Supplementary Agreement 	Дополнительное  соглашение  
+限位套 	Distance Piece	Дистанционная распорка 
+除锈防腐 	 Rust and corrosion protection 	  Удаление  ржавчины  и  защиты  от  коррозии  
+随车吊 	 Truck lift/truck mounted crane 	  Манипулятор  
+隐蔽工程	Hidden works 	Скрытые  работы  
+隔板/风布 	 Brattice 	  Переборка  [дощатая]
+隔气膜 	 Waterproof 	  Водонепроницаемый
+隔水层 	 Confined bed 	  Водоупорный  слой
+集水抗 	 Sump 	  Зумпфовая  насосная  
+集水池	Sump 	Водосборник
+集水池转运泵	Dewatering dam 	Водосборник  перекачной  станции  
+雇用 	 Sign on 	  Принять  на  работу  
+雨布/防水布 	 Rain cloth 	  Дождевая  ткань/брезент
+雪铲 	 Snow blade 	  Лопата  для  уборки  снега
+震动等级	Vibration level 	Уровень  вибрации  
+露天采矿场 	Open pit 	Карьер
+靠近 	 Near 	  Близко  к  чему
+面板/控制板 	 Panel 	  Панель  
+顶部/屋顶 	 Roof 	  Крыша  
+预凿 	 Pre-sinking 	Предворительные  работы  для  проходки  
+预制 	 Pre-casting 	
+预制的通风填充隧道	Vent backfill drive 	СВЗШ  (Сборный  вентиляционный  закладочный  штрек)  
+预埋 	 Embedded 	  Закладной  
+预拼装 	 Pre-assemble 	  Предварительная  сборка
+预注浆钻孔 	 Pre cover hole 	Предцементация  скважины  
+预防	Prevention 	Предотвращение
+频率 	Frequency  	Частота
+风机	Fan (small) 	Вентилятор
+风筒 	 Air duct 	  Вентиляционный  трубопровод
+风道 	 Vent duct 	  Вентиляционный  канал  
+风道口弯道 	 Vent duct bend  	  Сгиб  вентиляционного  канала  
+风镐	Jackhammer	Отбойный  молоток  
+饮水机 	 Water dispenser 	  Кулер  
+首绳	Head Rope 	Головной канат
+马头门 	 Station 	  Сопряжение  околоствольного  двора  с  шахтным  стволом
+马头门眉 	 Station brow 	
+马达	Motor	Мотор
+驱动装置 	 Driving device 	  Приводное  устройство  
+高压 	 High voltage  	  Высокий  вольтаж
+高压灯 	 High voltage light 	  Высоковольтное  освещение  
+高压球阀 	 High pressure ball valve 	  Шаровые  краны  высокого  давления
+高毒物质储存 	High toxic material storage 	СДЯВ  (Сильноде́йствующие  ядови́тые  вещества́)
+高温线 	 HT line 	  Высоковольтная  линия  
+高空作业 	 Working at heights  	  Работы  на  высоте  
+齿轮 	 Gear 	  Шестерня  
